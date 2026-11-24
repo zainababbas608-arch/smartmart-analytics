@@ -1,0 +1,10 @@
+Store_ID,Store_Name,City,Region,Channel
+ST-001,SmartMart Lahore,Lahore,North,Store
+ST-002,SmartMart Islamabad,Islamabad,North,Store
+ST-003,SmartMart Karachi,Karachi,South,Store
+ST-004,SmartMart Hyderabad,Hyderabad,South,Store
+ST-005,SmartMart Faisalabad,Faisalabad,East,Store
+ST-006,SmartMart Multan,Multan,East,Store
+ST-007,SmartMart Quetta,Quetta,West,Store
+ST-008,SmartMart Peshawar,Peshawar,West,Store
+ONLINE,SmartMart Online,Online,Online,Online

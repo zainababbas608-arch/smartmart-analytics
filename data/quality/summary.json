@@ -1,0 +1,45 @@
+{
+  "generated_at": "2026-11-24T08:40:39+00:00",
+  "raw": {
+    "sales": 1310,
+    "customers": 253,
+    "products": 83,
+    "stores": 9
+  },
+  "clean": {
+    "sales": 1230,
+    "customers": 251,
+    "products": 80,
+    "stores": 9
+  },
+  "rejected_sales": 50,
+  "duplicate_sale_ids_removed": 30,
+  "missing_or_unknown_customers_imputed": 20,
+  "suspected_natural_duplicates": 11,
+  "rejection_reasons": {
+    "invalid_date": 15,
+    "invalid_quantity": 10,
+    "invalid_discount": 10,
+    "unknown_product": 10,
+    "unknown_store": 5
+  },
+  "revenue_total": 444406.07,
+  "date_range": {
+    "min": "2025-01-01",
+    "max": "2026-10-31"
+  },
+  "dimension_quality": {
+    "customers": {
+      "invalid_rows": 0,
+      "duplicate_ids_removed": 3
+    },
+    "products": {
+      "invalid_rows": 0,
+      "duplicate_ids_removed": 3
+    },
+    "stores": {
+      "invalid_rows": 0,
+      "duplicate_ids_removed": 0
+    }
+  }
+}

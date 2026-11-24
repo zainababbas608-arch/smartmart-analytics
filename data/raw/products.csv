@@ -1,0 +1,84 @@
+Product_ID,Product_Name,Category,Unit_Price,Unit_Cost
+ELE-001,"Smart LED TV 43""",electronics,796.16,443.86
+ELE-002,"Smart LED TV 55""",Electronics,354.28,209.68
+ELE-003,Bluetooth Speaker,Electronics,837.9,685.11
+ELE-004,Wireless Earbuds,Electronics,741.35,414.81
+ELE-005,USB-C Charger 65W,Electronics,324.87,227.93
+ELE-006,Power Bank 20000mAh,Electronics,708.59,541.93
+ELE-007,Gaming Mouse,Electronics,549.86,376.52
+ELE-008,Mechanical Keyboard,Electronics ,986.56,544.53
+ELE-009,Wi-Fi Router,Electronics ,861.92,562.04
+ELE-010,Security Camera, ELECTRONICS ,321.15,250.19
+ELE-011,Smart Watch,electronics,183.88,106.47
+ELE-012,"Tablet 10""",Electronics,756.17,598.99
+ELE-013,Laptop Backpack,Electronics ,680.58,573.0
+ELE-014,HDMI Cable 2m,Toys,168.26,107.34
+ELE-015,Surge Protector,Electronics,1071.71,705.71
+ELE-016,Desk Lamp,Electronics,869.12,489.96
+ELE-017,Portable Fan,Electronics,945.84,799.77
+ELE-018,Action Camera, ELECTRONICS ,1050.46,697.55
+ELE-019,Noise-Cancelling Headphones,electronics,791.97,522.26
+ELE-020,4K Streaming Stick,Electronics,477.9,358.93
+CLO-001,Men's Cotton Shirt,clothing,54.59,32.83
+CLO-002,Men's Denim Jeans,Clothing,25.62,17.01
+CLO-003,Women's Lawn Suit,Clothing,29.27,18.95
+CLO-004,Women's Abaya,Clothing,29.89,16.73
+CLO-005,Kids' T-Shirt,Clothing,41.08,23.41
+CLO-006,Kids' Hoodie,Clothing ,71.96,46.37
+CLO-007,Men's Polo Shirt,apparel,40.72,33.57
+CLO-008,Women's Cotton Kurta,Clothing,24.29,14.38
+CLO-009,Men's Formal Trousers,Clothing,50.03,38.73
+CLO-010,Women's Denim Jacket,Clothing,73.36,49.14
+CLO-011,Sports Socks Pack,Clothing,79.83,47.22
+CLO-012,Men's Hoodie,apparel,20.91,11.8
+CLO-013,Women's Scarf,clothing,24.93,14.91
+CLO-014,Kids' Shorts,Clothing,53.77,35.78
+CLO-015,Men's Jacket,Clothing,79.75,56.52
+CLO-016,Women's Maxi Dress,Clothing,70.95,39.27
+CLO-017,Unisex Cap,Clothing,59.31,42.17
+CLO-018,Men's Sweater,Clothing ,64.96,42.36
+CLO-019,Women's Cardigan,clothing,43.26,29.68
+CLO-020,Kids' Pajama Set,clothing,78.17,60.86
+HOM-001,Microwave Oven,Home Appliances,414.18,335.96
+HOM-002,Electric Kettle,home appliance,385.08,270.44
+HOM-003,Vacuum Cleaner,Home Appliances,102.66,79.95
+HOM-004,Air Fryer,Home Appliances,430.93,356.26
+HOM-005,Blender,Home Appliances,285.57,198.92
+HOM-006,Toaster,Home Appliances,420.93,342.48
+HOM-007,Coffee Maker,Home Appliances,138.18,85.98
+HOM-008,Rice Cooker,Home Appliances,428.25,246.54
+HOM-009,Electric Iron,Home Appliances,374.57,315.91
+HOM-010,Washing Machine,Home Appliances,353.99,208.33
+HOM-011,Refrigerator 12 cu ft,HOME APPLIANCES,428.21,256.73
+HOM-012,Air Conditioner 1.5 Ton,Home Appliances,397.7,269.22
+HOM-013,Ceiling Fan,Home Appliances ,420.85,326.82
+HOM-014,Water Dispenser,Home Appliances,332.31,222.55
+HOM-015,Sewing Machine,Home Appliances,219.62,154.89
+HOM-016,Hair Dryer,Home Appliances,141.64,80.62
+HOM-017,Sandwich Maker,Home Appliances,281.21,174.08
+HOM-018,Food Processor,Home Appliances,42.95,32.74
+HOM-019,Room Heater,Home Appliances,133.87,109.99
+HOM-020,Water Purifier,Home Appliances,69.05,42.91
+GRO-001,Basmati Rice 5kg,Toys,9.86,5.81
+GRO-002,Cooking Oil 5L, GROCERY ,21.44,13.35
+GRO-003,Wheat Flour 10kg,Grocery ,28.84,17.51
+GRO-004,White Sugar 5kg,Grocery,24.09,15.81
+GRO-005,Red Lentils 1kg,Grocery,17.94,13.79
+GRO-006,Green Tea 200g,Grocery,4.94,3.8
+GRO-007,Milk Powder 1kg,Grocery,10.96,6.65
+GRO-008,Breakfast Cereal 500g,Grocery,7.49,4.53
+GRO-009,Pasta 500g,Grocery,10.99,9.09
+GRO-010,Tomato Ketchup 500ml,Grocery,28.86,23.28
+GRO-011,Mineral Water 12-Pack,Grocery,4.62,3.93
+GRO-012,Eggs 30-Pack, GROCERY ,34.01,28.16
+GRO-013,Chicken Spread 500g,Grocery,8.32,5.79
+GRO-014,Honey 500g,groceries,30.67,25.17
+GRO-015,Mixed Nuts 500g,Grocery,15.13,12.79
+GRO-016,Coffee 200g,Grocery,32.65,25.65
+GRO-017,Biscuits Family Pack,Toys,16.54,13.85
+GRO-018,Laundry Detergent 3kg,Grocery,24.18,16.83
+GRO-019,Dishwashing Liquid 1L,groceries,12.49,10.5
+GRO-020,Tissue Box 6-Pack,Grocery ,26.54,15.08
+CLO-010,Women's Denim Jacket,Clothing,73.36,49.14
+HOM-017,Sandwich Maker,Home Appliances,281.21,174.08
+CLO-019,Women's Cardigan,clothing,43.26,29.68

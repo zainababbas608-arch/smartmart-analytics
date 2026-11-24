@@ -2,7 +2,7 @@
 
 SQLite + Streamlit Community Cloud analytics project.
 
-> Scaffold only: implementation files are placeholders.
+> Data generation and cleaning are implemented. SQL and dashboard files remain placeholders.
 
 ## Structure
 
@@ -51,6 +51,8 @@ git-ignored. The clean CSVs remain the reproducible source of truth.
 py -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
+py scripts/generate_data.py
+py scripts/clean_validate.py
 streamlit run app.py
 ```
 
