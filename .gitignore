@@ -2,6 +2,11 @@
 .streamlit/secrets.toml
 .env
 
+# Generated SQLite database
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
 # Python
 __pycache__/
 *.py[cod]

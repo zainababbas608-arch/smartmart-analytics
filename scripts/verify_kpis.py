@@ -1,1 +1,1 @@
-﻿"""Reconcile KPI totals across pandas, CSV and Salesforce SOQL."""
+﻿"""Reconcile KPI totals across SQL and pandas."""

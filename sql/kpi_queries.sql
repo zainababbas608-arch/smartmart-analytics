@@ -1,0 +1,3 @@
+-- KPI queries for SmartMart Retail Analytics.
+-- Planned queries: revenue, orders, AOV, units, gross margin,
+-- new vs repeat customers, top products, regional performance.

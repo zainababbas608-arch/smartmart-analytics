@@ -1,0 +1,4 @@
+-- SQLite schema for SmartMart Retail Analytics.
+-- Planned tables: customers, products, stores, sales.
+-- Planned views: sales_enriched, monthly_sales, product_performance,
+-- regional_performance.
