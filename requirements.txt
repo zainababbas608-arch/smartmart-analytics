@@ -1,0 +1,5 @@
+﻿streamlit>=1.40,<2
+pandas>=2.2,<3
+plotly>=5.24,<7
+simple-salesforce>=1.12,<2
+pytest>=8,<9

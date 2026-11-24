@@ -1,0 +1,1 @@
+﻿"""SmartMart analytics package."""
